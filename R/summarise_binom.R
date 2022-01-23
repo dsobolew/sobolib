@@ -1,10 +1,10 @@
 #' Calculates basic statistics for 0/1 binomial data
 #'
 #' @name summarise_binom
-#' @description Calculates basic statistics for 0/1 binomial data
+#' @description Calculates Jeffreys confidence interval for binomial data.
 #' @param tbl A tibble of data.
 #' @param col A binomial column in 0/1 or TRUE/FALSE format.
-#' @param ... Categorical columns that you wish .to group the analysis by
+#' @param ... Categorical columns that you wish to group the analysis by
 #' @import dplyr
 #' @import rlang
 #' @export

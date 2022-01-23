@@ -14,5 +14,5 @@ summarise_binom(tbl, col, ...)
 \item{...}{Categorical columns that you wish .to group the analysis by}
 }
 \description{
-Calculates basic statistics for 0/1 binomial data
+Calculates Jeffreys confidence interval for binomial data.
 }

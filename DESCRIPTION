@@ -1,0 +1,15 @@
+Package: sobolib
+Type: Package
+Title: Sobo's Personal Package
+Version: 0.1.0
+Author: Dennis Sobolewski
+Maintainer: Dennis Sobolewski <dennis.sobolewski@gmail.com>
+Description: This package contains style templates and functions that I use often. If I use it more than a few times, I add it to this package!
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    rlang
+RoxygenNote: 7.1.1

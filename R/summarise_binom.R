@@ -1,4 +1,4 @@
-#' Calculates basic statistics for 0/1 binomial data
+#' Confidence Intervals for Binomial Data
 #'
 #' @name summarise_binom
 #' @description

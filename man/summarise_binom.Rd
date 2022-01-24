@@ -2,7 +2,7 @@
 % Please edit documentation in R/summarise_binom.R
 \name{summarise_binom}
 \alias{summarise_binom}
-\title{Calculates basic statistics for 0/1 binomial data}
+\title{Confidence Intervals for Binomial Data}
 \usage{
 summarise_binom(tbl, col, ...)
 }

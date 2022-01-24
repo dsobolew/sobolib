@@ -11,8 +11,14 @@ summarise_binom(tbl, col, ...)
 
 \item{col}{A binomial column in 0/1 or TRUE/FALSE format.}
 
-\item{...}{Categorical columns that you wish .to group the analysis by}
+\item{...}{Categorical columns that you wish to group the analysis by}
 }
 \description{
 Calculates Jeffreys confidence interval for binomial data.
+
+For more info:
+
+\href{https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Jeffreys_interval}{Jeffrys Inteval Wikipedia}
+
+\href{https://youtu.be/3PecUbnuYC4}{Live demonstration of application}
 }
